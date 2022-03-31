@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b457bf42.css",
+    "main.js": "/static/js/main.4b299264.js",
+    "static/media/finalyear.png": "/static/media/finalyear.01e20c23a1bb3974b0d5.png",
+    "static/media/ecom.png": "/static/media/ecom.48179fac18c3f1f40a6b.png",
+    "static/media/java.png": "/static/media/java.fdabd4e11f1235e4e8e0.png",
+    "static/media/logo.png": "/static/media/logo.d2bd2c92c59896f4318e.png",
+    "static/media/nodecrud.png": "/static/media/nodecrud.f0990a1ee9383d7079d7.png",
+    "static/media/githubfinder.png": "/static/media/githubfinder.93923de59a0d82ddae77.png",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/expensetracker.png": "/static/media/expensetracker.ad0a905595cf5a90bcb9.png",
+    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/springreact.png": "/static/media/springreact.04cca1315b7df4626830.png",
+    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/mysql.png": "/static/media/mysql.4676ad983d6bd3e9fac9.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.b457bf42.css.map": "/static/css/main.b457bf42.css.map",
+    "main.4b299264.js.map": "/static/js/main.4b299264.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b457bf42.css",
+    "static/js/main.4b299264.js"
+  ]
+}

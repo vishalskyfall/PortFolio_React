@@ -30,7 +30,7 @@ function Modal({ closeModal, LinkCode }) {
             className="text-[#17181b] border-2 dark:text-black   hover:bg-[#4431ec] hover:border-[#0e0d0d] px-2 py-1 my-5 mx-auto  transition duration-300"
           >
             <a
-              href={`https://github.com/vishalskyfall/`+ `${LinkCode}`}
+              href={`https://github.com/vishalskyfall/${LinkCode}`}
               target="_blank"
               rel="noreferrer"
             >
